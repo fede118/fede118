@@ -3,9 +3,7 @@
 
 - 👀 I’m interested in Android Development and continue learning more about programming in general
 
-- 🌱 I’m currently learning advanced kotling features and implementing the things I learn in my [MovieKnight app](https://github.com/fede118/MovieKnight) (currently WIP) in my free time. It still needs a lot of work but I'm working on it 💪
-
-  Note: I really enjoy creating this app because it mixes 2 things I really like programming + movies :D
+- 🌱 I’m currently learning Jetpack Compose -> [MyStock app](https://github.com/fede118/MyStockApp) It still needs a lot of work but I'm working on it 💪
 
 - 📫 You can reach me at: fede.cano118@gmail.com or https://www.linkedin.com/in/federico-cano-348505178/
 
