@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fede118.
   Apart from programming, I like to read, watch movies/series, play sports, play the guitar and play videogames :D
 
-- 👀 I’m interested in Android Development and continue learning more about programming in general
-
 - 🌱 I’m currently learning Jetpack Compose -> [MyStock app](https://github.com/fede118/MyStockApp) It still needs a lot of work but I'm working on it 💪
 
 - 📫 You can reach me at: fede.cano118@gmail.com or https://www.linkedin.com/in/federico-cano-348505178/
