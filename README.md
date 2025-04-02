@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fede118.
   Apart from programming, I like to read, watch movies/series, play sports, play the guitar and play videogames :D
 
-- 🌱 I’m currently creating my Expense tracker app -> [ExpenseLens]([https://github.com/fede118/MyStockApp](https://github.com/fede118/ExpenseLens)):
+- 🌱 I’m currently creating my Expense tracker app -> [ExpenseLens](https://github.com/fede118/ExpenseLens):
   - It uses Img2Text to extract text from a picture of (hopefully :P) a receipt/bill
   - Then uses Gemini AI to process this text and extrect values: Date, Total, Category (more to come)
   - More details on the Repo :D
